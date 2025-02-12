@@ -3,3 +3,6 @@ esse arquivo contem informações adicionais para serem usados no GIT.
 primeiro commando
 
 Segundo comando
+
+commandos mais genericos
+commandos estranhos
