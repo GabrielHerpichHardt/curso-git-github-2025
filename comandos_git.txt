@@ -4,3 +4,13 @@ git status -> mostra o status do trabalho
 git add  nome_arquivo -> adiciona arquivo a ser commitado
 git commit -m "msg" -> faz commit do que estava para ser commitado
 git log -> mostra todo o histórico de commit
+
+criar diretório do projeto
+iniciar o git dentro do diretorio criado
+editar ou criar arquivos
+git status
+git add nome_arquivo
+git status
+git commit -m "mensagem"
+git status
+volta para passo 3
